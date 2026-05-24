@@ -1,6 +1,6 @@
 # 🚀 ATÜ Öğrenci Forum Platformu
 
-Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi öğrencileri için özel olarak geliştirilmiş, modern, hızlı ve dinamik bir topluluk ve paylaşım platformu. Bu proje, popüler forum mimarilerinden (Donanım Arşivi, XenForo) esinlenerek tamamen **sıfırdan (native)** PHP, MySQL ve modern CSS mimarisiyle inşa edilmiştir.
+Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi öğrencileri için özel olarak geliştirilmiş, modern, hızlı ve dinamik bir topluluk ve paylaşım platformu. Bu proje, popüler forum mimarilerinden  esinlenerek tamamen **sıfırdan (native)** PHP, MySQL ve modern CSS mimarisiyle inşa edilmiştir.
 
 ---
 
